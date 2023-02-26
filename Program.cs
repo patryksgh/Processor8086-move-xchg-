@@ -233,7 +233,6 @@ namespace procesor8086
         {
             Console.Clear();
             Console.WriteLine("Patryk Lichoń");
-            Console.WriteLine("Indeks: 14735");
             Console.ReadKey();
             Console.Clear();
         }
